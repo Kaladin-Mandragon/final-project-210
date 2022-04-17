@@ -1,0 +1,54 @@
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #393939;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header.masthead .page-heading > h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    font-size: 6rem;
+    margin-bottom: .5rem;
+}
+
+header.masthead .page-heading .subheading {
+    font-family: 'Arial, sans-serif';
+    color: #fff;
+    font-size: 2rem;
+    line-height: 1.25;
+}
+
+
+body {
+    background-color: #fcdcae;
+}
+
+.table {
+    background-color: #fff;
+    color: #000;
+}
+
+.form-control {
+    background-color: #fcdcae;
+}
+
+.center {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.tableauPlaceholder {
+    margin: 4rem;
+}
+
+.contact-info {
+    text-align: right;
+    font-size: 0.75rem;
+}
