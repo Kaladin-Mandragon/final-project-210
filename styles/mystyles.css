@@ -52,3 +52,14 @@ body {
     text-align: right;
     font-size: 0.75rem;
 }
+
+.main-menu nav ul{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 80rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+}
